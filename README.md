@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hello, I'm Ivan.👋
+Interested in learning and exploring more about Frontend Development.
+
+🌱 I’m currently specializing in development using React and Next.js, APIs and high performance applications.
+📫 How to reach me zhiv80@mail.ru
+🌍 I speak Russian (native), English (B2)
 
 <!--
-**Ivan-Zhdanovich/Ivan-Zhdanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ivan-ZHehdanovich/Ivan-Zhdanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
