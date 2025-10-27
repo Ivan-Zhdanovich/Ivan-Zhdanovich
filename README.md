@@ -1,7 +1,7 @@
 ## Hello, I'm Ivan.👋
-Interested in learning and exploring more about Frontend Development and Node.js.
+Interested in learning and exploring more about Full-stack Development.
 
-🌱 I’m currently specializing in development using React and Next.js, APIs and high performance applications. I'm in the process of learning Node.js with a focus on Nest.js.
+🌱 I’m currently specializing in development using React and Next.js, APIs and high performance applications, Node.js with a focus on Nest.js. I also have experience developing .Net Core 9 web API applications with a clean architecture.
 📫 How to reach me zhiv80@mail.ru
 🌍 I speak Russian (native), English (B2)
 
